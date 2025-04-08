@@ -2,7 +2,7 @@
 
 > NOTE: This works with all versions of Slate (i.e. [Slate](../Slate/), [Slate Colored](../Slate%20Colored/), and [Slate Orange](../Slate%20Orange/)).
 
-![Preview](Preview.jpg?raw=true)
+![Preview](./Preview.jpg?raw=true)
 
 ## Installation
 

@@ -1,6 +1,6 @@
 # Left 4 Dead
 
-![Preview](Preview.png?raw=true)
+![Preview](./Preview.png?raw=true)
 
 ## Changelog
 

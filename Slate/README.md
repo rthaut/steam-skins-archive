@@ -4,7 +4,7 @@
 
 [Regular Version](../Slate/) | [Colored Version](../Slate%20Colored/) | [Orange Version](../Slate%20Orange/) | [Alternate Buttons](../Slate%20Alternate%20Buttons/)
 
-![Preview](Preview.jpg?raw=true)
+![Preview](./Preview.jpg?raw=true)
 
 ## Changelog
 

@@ -1,6 +1,6 @@
 # Carbon
 
-![Preview](Preview.jpg?raw=true)
+![Preview](./Preview.jpg?raw=true)
 
 ## Changelog
 
